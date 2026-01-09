@@ -1,0 +1,2 @@
+# harjutus
+verisooni halduse githubis
